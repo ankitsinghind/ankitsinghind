@@ -1,2 +1,15 @@
 # 💫 About Me:
-Hi there 👋 I'm Ankit Singh<br><br>I'm a passionate Computer Science student diving deep into the world of technology, code, and creativity. Whether it's solving algorithmic puzzles or exploring new frameworks, I love bringing ideas to life through code. I'm currently sharpening my skills in web development, open source, and building cool side projects to learn something new every day.<br><br>🧠 Currently learning: Full-stack web development  <br>💡 Projects I enjoy: Anything that blends logic, design, and impact  <br>📚 Always curious about: Clean code, tech trends, and AI innovations  <br>🌱 On a mission to: Build, break, fix, and learn by doing  <br>
+Hi there 👋 I'm Ankit Singh<br><br>I'm a passionate Computer Science student diving deep into the world of technology, code, and creativity. Whether it's solving algorithmic puzzles or exploring new frameworks, I love bringing ideas to life through code. <br><br>
+
+## 🚀 What I'm Learning
+- 🌐 Full-Stack Web Development
+- 🐍 Python for scripting and problem solving
+- 💻 C for understanding systems and memory-level programming
+
+## 🧠 My Philosophy
+I believe in learning by doing — building projects, breaking things, and fixing them again.  
+Every bug is a puzzle, every fix is a win.
+
+## 📁 Projects & Experiments
+Check out my repositories to see what I'm tinkering with.
+---
